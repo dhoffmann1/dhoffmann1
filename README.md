@@ -10,6 +10,11 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
+<div id="badges-portfolio" align="center">
+  <a href="https://pepa90210.github.io/">
+    <img src="https://img.shields.io/badge/Porfolio Page-grey?style=for-the-badge&logo=prometheus&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+</div>
 <div id="profile-views" align="center">
   <img src="https://komarev.com/ghpvc/?username=Pepa90210&style=flat-square&color=blue" alt="profile views"/>
   <h1>
