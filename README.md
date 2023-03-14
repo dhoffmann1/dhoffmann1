@@ -11,7 +11,7 @@
   </a>
 </div>
 <div id="badges-portfolio" align="center">
-  <a href="https://pepa90210.github.io/">
+  <a href="https://dhoffmann1.github.io/">
     <img src="https://img.shields.io/badge/Porfolio Page-grey?style=for-the-badge&logo=prometheus&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
